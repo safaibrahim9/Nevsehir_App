@@ -1,16 +1,20 @@
-# nevsehir
+# 🏞️ Nevşehir App
 
-A new Flutter project.
+**Nevşehir App**, Nevşehir şehriyle ilgili önemli yerleri, etkinlikleri veya bilgilendirici içerikleri kullanıcıya sunmayı amaçlayan bir mobil/web uygulamasıdır. Hem yerel halk hem de turistler için faydalı olacak şekilde tasarlanmıştır.
 
-## Getting Started
+## 🚀 Özellikler
 
-This project is a starting point for a Flutter application.
+- 🗺️ Nevşehir'e ünlü turistik yerleri ve etkinlik bilgileri
+- 📚 Bilgilendirici kartlar ve şehrin ünlü yemekler
+- 🎨 Kullanıcı dostu ve sade tasarım
+- 
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Flutter
+## 🧭 Nasıl Kullanılır?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Reposu bilgisayarınıza klonlayın:
+
+```bash
+git clone https://github.com/safaibrahim9/Nevsehir_App.git
